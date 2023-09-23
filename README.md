@@ -19,10 +19,13 @@
 
 Apaixonado por desenvolvimento web, e sempre disposto a aprender coisas novas!👨‍💻✌️
 
-# Entre em contato:
-
+# Entre em contato pelo Linkedin:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabriel-santos-070b91285)
+www.linkedin.com/in/gabriel-santos-070b91285
+
+# Ou Gmail:
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](g4briel.santos1313@gmail.com)
+g4briel.santos1313@gmail.com
 
 
 
