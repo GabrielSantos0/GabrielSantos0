@@ -2,6 +2,8 @@
 
 ![GS GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSantos0&theme=blue-green)
 
+<b>Apaixonado por desenvolvimento web, e sempre disposto a aprender coisas novas!👨‍💻✌️<b>
+
 ## Pergunte-me sobre:
 
 <div style="display: inline_block"><br/>
@@ -17,13 +19,16 @@
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div><br/>
 
-Apaixonado por desenvolvimento web, e sempre disposto a aprender coisas novas!👨‍💻✌️
+## Conhecimento extra:
 
-# Entre em contato pelo Linkedin:
+<div style="display: inline_block"><br/>
+  <img align="center" alt="Phyton" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</div><br/>
+
+# Entre em contato:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabriel-santos-070b91285)
-www.linkedin.com/in/gabriel-santos-070b91285
+www.linkedin.com/in/gabriel-santos-070b91285<br/>
 
-# Ou Gmail:
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](g4briel.santos1313@gmail.com)
 g4briel.santos1313@gmail.com
 
